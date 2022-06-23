@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+
+}
+
+img {
+    border-radius: 100px;
+    border-color: blue;
+}
+
+.blue-glow {
+    text-shadow: 5px 5px 10px blue;
+}
+
+
+hr {
+    width: 20%;
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color: blue;
+}
+
+ul {
+    text-align: center;
+    display: inline-block;
+}
